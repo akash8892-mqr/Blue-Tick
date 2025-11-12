@@ -22,5 +22,3 @@ Exportable reports to assist audits, academic research, and digital forensics
 
 
 Blue Tick is engineered for students, researchers, fact-checking initiatives, and developers exploring trust and safety systems. It is not intended for surveillance or invasive user profiling; the focus is on technical experimentation, academic learning, and fostering safer online communities.
-
-Want a matching README structure, project badges, and installation section next?Is this conversation helpful so far?
